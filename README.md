@@ -2,10 +2,19 @@
 
 A clean and intuitive shopping app built with React Native, Expo, and TypeScript. This app showcases a list of products, allows users to add items to their cart, and simulates a checkout process.
 
-<img src="assets/screenshots/products.png" alt="App Screenshot - Product" width="400"/>
-<img src="assets/screenshots/checkout.png" alt="App Screenshot - Checkout" width="400"/>
-<img src="assets/screenshots/no_order.png" alt="App Screenshot - No Order Yet" width="400"/>
-<img src="assets/screenshots/ordered.png" alt="App Screenshot - OrderSuccess" width="400"/>
+
+
+<table>
+  <tr>
+    <img src="assets/screenshots/products.png" alt="App Screenshot - Product" width="360"/>
+    <img src="assets/screenshots/checkout.png" alt="App Screenshot - Checkout" width="360"/>
+  </tr>
+   <tr>
+      <img src="assets/screenshots/no_order.png" alt="App Screenshot - No Order Yet" width="360"/>
+      <img src="assets/screenshots/ordered.png" alt="App Screenshot - OrderSuccess" width="360"/>
+   </tr>
+</table>
+
 
 ## Features
 
